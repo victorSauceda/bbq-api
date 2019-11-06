@@ -1,4 +1,5 @@
 service: rest-api
+# note
 provider:
   name: aws
   runtime: nodejs8.10 # set node.js runtime
